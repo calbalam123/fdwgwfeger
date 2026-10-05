@@ -1,0 +1,6 @@
+{
+  "name": "DIVE Bot Studio",
+  "description": "노코드 디스코드 봇 빌더 & IVE 팬방 올인원 관리 대시보드 (Gemini AI 대화봇, 티켓 관리, 역할/공지 자동화, 24시 클라우드 호스팅)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

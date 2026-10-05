@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Headphone Arc -->
+    <path
+        android:pathData="M 32,52 C 32,38 42,28 54,28 C 66,28 76,38 76,52"
+        android:strokeColor="#EC4899"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+    
+    <!-- Star Antenna on top -->
+    <path
+        android:pathData="M 54,28 L 54,20"
+        android:strokeColor="#F472B6"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 54,16 L 55.5,19 L 58.5,19.5 L 56.3,21.5 L 57,24.5 L 54,23 L 51,24.5 L 51.7,21.5 L 49.5,19.5 L 52.5,19 Z" />
+
+    <!-- Headphone Ear Pads -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M 28,46 C 26,46 25,48 25,54 C 25,60 26,62 28,62 C 30,62 31,60 31,54 C 31,48 30,46 28,46 Z" />
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M 80,46 C 78,46 77,48 77,54 C 77,60 78,62 80,62 C 82,62 83,60 83,54 C 83,48 82,46 80,46 Z" />
+
+    <!-- Bot Head Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 33,48 C 33,38 42,34 54,34 C 66,34 75,38 75,48 L 75,64 C 75,72 66,76 54,76 C 42,76 33,72 33,64 Z" />
+
+    <!-- Bot Visor Screen -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M 38,48 C 38,44 44,42 54,42 C 64,42 70,44 70,48 L 70,62 C 70,66 64,68 54,68 C 44,68 38,66 38,62 Z" />
+
+    <!-- Visor Eyes (Glowing Magenta Heart/Star smile) -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M 44,53 C 44,50.8 45.8,49 48,49 C 50.2,49 52,50.8 52,53 C 52,55.2 50.2,57 48,57 C 45.8,57 44,55.2 44,53 Z" />
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M 56,53 C 56,50.8 57.8,49 60,49 C 62.2,49 64,50.8 64,53 C 64,55.2 62.2,57 60,57 C 57.8,57 56,55.2 56,53 Z" />
+
+    <!-- Cheerful Smile -->
+    <path
+        android:pathData="M 50,62 Q 54,65 58,62"
+        android:strokeColor="#EC4899"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Little Sparkles -->
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M 78,34 L 79,37 L 82,38 L 79,39 L 78,42 L 77,39 L 74,38 L 77,37 Z" />
+</vector>
